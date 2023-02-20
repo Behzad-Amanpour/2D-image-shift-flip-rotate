@@ -9,3 +9,5 @@ In **code.py** you will see:
   - How to rotate a 2D image clockwise and counterclockwise
   
   - How to read and write a DICOM file
+
+You can find a 2D DICOM Image at [this address](https://github.com/Behzad-Amanpour/dicom-read-write/blob/main/Image.dcm).
