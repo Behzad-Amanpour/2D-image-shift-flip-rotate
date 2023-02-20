@@ -1,7 +1,7 @@
 """
 Inputs:
     This code is based on a 2D DICOM Image
-    You can find a DICOM Image at this address: https://github.com/Behzad-Amanpour/dicom-read-write/blob/main/Image.dcm
+    You can find a DICOM Image at: https://github.com/Behzad-Amanpour/dicom-read-write/blob/main/Image.dcm
 """
 
 from pydicom import dcmread
